@@ -1,2 +1,1 @@
-# serviceworkertest
-Testing a service worker for a YouTube channel
+# weather app for google andela
